@@ -61,6 +61,7 @@ Este proyecto no solo es una pr√°ctica de desarrollo de videojuegos, sino tambi√
 ### Vista de fantasma en juego
 ![Fantasma](Pacman2/assets/PacmanGhost.png)
 
+### Demo
 ![Demo del juego](Pacman2/demo.gif)
 
 

@@ -1,4 +1,4 @@
-# 🟡 Pacman2 - Trabajo de Fin de Grado 🎓
+# 🟡 Pacman - Trabajo de Fin de Grado 🎓
 
 Este proyecto es un videojuego tipo **Pacman**, desarrollado como **Trabajo de Fin de Grado** durante el curso 2024-2025. Utiliza el framework **LibGDX** y está completamente programado en **Java**.
 

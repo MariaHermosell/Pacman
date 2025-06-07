@@ -56,10 +56,10 @@ Este proyecto no solo es una práctica de desarrollo de videojuegos, sino tambi�
 ## 📸 Capturas
 
 ### Pantalla de inicio
-![Pantalla de inicio](./assets/Pacman_MainScreen.png)
+![Pantalla de inicio](Pacman2/assets/Pacman_MainScreen.png)
 
 ### Vista de fantasma en juego
-![Fantasma](./assets/PacmanGhost.png)
+![Fantasma](Pacman2/assets/PacmanGhost.png)
 
 ## 📚 Bibliografía
 

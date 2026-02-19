@@ -1,6 +1,6 @@
 # 🟡 Pacman - Trabajo de Fin de Grado 🎓
 
-Este proyecto es un videojuego tipo **Pacman**, desarrollado como **Trabajo de Fin de Grado** durante el curso 2024-2025. Utiliza el framework **LibGDX** y está completamente programado en **Java**.
+Este proyecto es un videojuego tipo **Pacman**.Utiliza el framework **LibGDX** y está completamente programado en **Java**.
 
 ## 🎮 Descripción
 
@@ -75,7 +75,7 @@ Este proyecto no solo es una práctica de desarrollo de videojuegos, sino tambi�
 
 Soy **María Hermosell**, desarrolladora junior con pasión por la programación backend (Java & .NET) y la creación de soluciones funcionales y bien estructuradas. Este proyecto refleja mi entusiasmo por aprender, construir y superarme en cada paso.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/maría-hermosell-santiago-95454858/)  
+
 📧 mariahermosell@gmail.com
 
 ---

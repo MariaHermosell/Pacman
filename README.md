@@ -73,7 +73,7 @@ Este proyecto no solo es una práctica de desarrollo de videojuegos, sino tambi�
 
 ## 📢 Sobre mí
 
-Soy **María Hermosell**, desarrolladora junior con pasión por la programación backend (Java & .NET) y la creación de soluciones funcionales y bien estructuradas. Este proyecto refleja mi entusiasmo por aprender, construir y superarme en cada paso.
+Soy **María Hermosell**, desarrolladora  con pasión por la programación FullStack (Java & .NET) y la creación de soluciones funcionales y bien estructuradas. Este proyecto refleja mi entusiasmo por aprender, construir y superarme en cada paso.
 
 
 📧 mariahermosell@gmail.com

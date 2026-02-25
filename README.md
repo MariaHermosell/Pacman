@@ -36,7 +36,7 @@ Este proyecto no solo es una práctica de desarrollo de videojuegos, sino tambi�
 ## 📁 Estructura del proyecto
 
 ```
-├── controller/          # Lógica del juego (movimiento, IA)
+├── controller/         # Lógica del juego (movimiento, IA)
 ├── model/              # Elementos del juego (Pacman, fantasmas, laberinto...)
 ├── view/               # Texturas y renderizado
 ├── screens/            # Pantallas del juego

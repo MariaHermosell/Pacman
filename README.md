@@ -1,4 +1,4 @@
-# 🟡 Pacman - Trabajo de Fin de Grado 🎓
+# 🟡 Pacman 
 
 Este proyecto es un videojuego tipo **Pacman**.Utiliza el framework **LibGDX** y está completamente programado en **Java**.
 
